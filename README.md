@@ -1,1 +1,2 @@
 # ReNaiSanCe-SoFtAiM
+paste = retard
